@@ -3,7 +3,7 @@
 <div align="center">
     
 <a href="https://github.com/muzilib">
-    <img src="https://count.getloli.com/get/@:muzilib?theme=asoul" alt="muzilib"/>
+    <img src="https://count.getloli.com/get/@:muzilib?theme=nixietube-1" alt="muzilib"/>
 </a>
  
 ![github contribution grid snake animation](https://raw.githubusercontent.com/muzilib/muzilib/output/github-snake-dark.svg#gh-dark-mode-only)
